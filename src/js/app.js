@@ -60,7 +60,7 @@ App = {
     if (allowedAccounts.includes(App.account)) {
       accountSection.append(
         '<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addModal">' +
-          "Add Condidate" +
+          "Add Candidate" +
           "</button>"
       );
     }
